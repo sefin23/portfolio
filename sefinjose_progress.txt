@@ -1,5 +1,4 @@
 day 1:6-02-2025
 
-learn 
-implement enthoram 
-challenges
+basic stuff on how to create repository,commit and push in git (from the video)
+implemented successfully.
