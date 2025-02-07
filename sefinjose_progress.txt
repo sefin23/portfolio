@@ -2,3 +2,14 @@ day 1:6-02-2025
 
 basic stuff on how to create repository,commit and push in git (from the video)
 implemented successfully.
+
+
+day 2 :07-02-2025
+
+Finished the html part of the code.
+code is from a youtube video.
+source:https://www.youtube.com/watch?v=-u3vE84Wo_U&list=LL&index=1&t=120s&ab_channel=ProCoder
+Almost all of the code is same with minor changes made with help from chatgpt.
+Major part of css styling yet to be completed.
+
+challenges:Mainly on understanding the code.
