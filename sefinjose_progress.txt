@@ -9,7 +9,17 @@ day 2 :07-02-2025
 Finished the html part of the code.
 code is from a youtube video.
 source:https://www.youtube.com/watch?v=-u3vE84Wo_U&list=LL&index=1&t=120s&ab_channel=ProCoder
-Almost all of the code is same with minor changes made with help from chatgpt.
+
 Major part of css styling yet to be completed.
 
 challenges:Mainly on understanding the code.
+
+
+day 3 :08-02-2025
+
+changed parts of html code.
+code is from a youtube video.
+source:https://www.youtube.com/watch?v=xtK57s6QN28&t=0s&ab_channel=ProCoder
+css styling completed.
+
+challenges:Mainly on understanding the code and organising changes from the code in the video with the help of chatgpt.
